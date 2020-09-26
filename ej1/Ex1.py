@@ -8,7 +8,7 @@ from utils import translatemRNASequence
 import sys
 
 if len(sys.argv) != 2:
-    print("Usage: gbToFasta [genBankFilePath]")
+    print("Usage: python3 Ex1.py [genBankFilePath]")
 else:
     genBankFilePath = sys.argv[1]
     outputFilePathSplit = genBankFilePath.split('.')

@@ -1,0 +1,10 @@
+#
+#
+#  Percent Identity  Matrix - created by Clustal2.1 
+#
+#
+
+     1: sp|Q9FE17.1|SIR1_ARATH  100.00   44.12   44.30   46.60
+     2: sp|Q9VH08.1|SIR6_DROME   44.12  100.00   46.71   48.21
+     3: NM_001193285.3.1         44.30   46.71  100.00   87.62
+     4: sp|P59941.1|SIR6_MOUSE   46.60   48.21   87.62  100.00
