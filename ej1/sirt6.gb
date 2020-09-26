@@ -1,0 +1,245 @@
+LOCUS       NM_001193285            1519 bp    mRNA    linear   PRI 20-SEP-2020
+DEFINITION  Homo sapiens sirtuin 6 (SIRT6), transcript variant 2, mRNA.
+ACCESSION   NM_001193285
+VERSION     NM_001193285.3
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1519)
+  AUTHORS   Hou T, Cao Z, Zhang J, Tang M, Tian Y, Li Y, Lu X, Chen Y, Wang H,
+            Wei FZ, Wang L, Yang Y, Zhao Y, Wang Z, Wang H and Zhu WG.
+  TITLE     SIRT6 coordinates with CHD4 to promote chromatin relaxation and DNA
+            repair
+  JOURNAL   Nucleic Acids Res. 48 (6), 2982-3000 (2020)
+   PUBMED   31970415
+  REMARK    GeneRIF: These results identify a novel function for SIRT6 in
+            recruiting CHD4 onto DNA double-strand breaks.
+REFERENCE   2  (bases 1 to 1519)
+  AUTHORS   Han LL, Jia L, Wu F and Huang C.
+  TITLE     Sirtuin6 (SIRT6) Promotes the EMT of Hepatocellular Carcinoma by
+            Stimulating Autophagic Degradation of E-Cadherin
+  JOURNAL   Mol. Cancer Res. 17 (11), 2267-2280 (2019)
+   PUBMED   31551254
+  REMARK    GeneRIF: These results established a relationship between SIRT6 and
+            hepatocellular carcinoma (HCC) epithelial-mesenchymal transition
+            (EMT) and further elucidated the mechanisms underlying HCC
+            metastasis, helping provide a promising approach for the treatment
+            of HCC.
+REFERENCE   3  (bases 1 to 1519)
+  AUTHORS   de Ceu Teixeira M, Sanchez-Lopez E, Espina M, Garcia ML, Durazzo A,
+            Lucarini M, Novellino E, Souto SB, Santini A and Souto EB.
+  TITLE     Sirtuins and SIRT6 in Carcinogenesis and in Diet
+  JOURNAL   Int J Mol Sci 20 (19), E4945 (2019)
+   PUBMED   31591350
+  REMARK    GeneRIF: Evidence shows that SIRT6 overexpression or knockout in
+            cells can result in different biological responses as tumor
+            suppressor or promoter, depending on cell and tumor type. [review]
+            Review article
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 1519)
+  AUTHORS   Zhao J, Liu S, Zhang W, Ni L, Hu Z, Sheng Z and Yin B.
+  TITLE     MiR-128 inhibits the osteogenic differentiation in osteoporosis by
+            down-regulating SIRT6 expression
+  JOURNAL   Biosci. Rep. 39 (9) (2019)
+   PUBMED   31477582
+  REMARK    GeneRIF: MiR-128 inhibits the osteogenic differentiation in
+            osteoporosis by down-regulating SIRT6 expression.
+            Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 1519)
+  AUTHORS   Bang IH, Kwon OK, Hao L, Park D, Chung MJ, Oh BC, Lee S, Bae EJ and
+            Park BH.
+  TITLE     Deacetylation of XBP1s by sirtuin 6 confers resistance to ER
+            stress-induced hepatic steatosis
+  JOURNAL   Exp. Mol. Med. 51 (9), 1-11 (2019)
+   PUBMED   31541078
+  REMARK    GeneRIF: in liver tissues obtained from patients with nonalcoholic
+            fatty liver disease (NAFLD), the extent of XBP1s acetylation
+            correlated positively with the NAFLD activity score but negatively
+            with the Sirt6 level.
+            Publication Status: Online-Only
+REFERENCE   6  (bases 1 to 1519)
+  AUTHORS   Yamamoto H, Schoonjans K and Auwerx J.
+  TITLE     Sirtuin functions in health and disease
+  JOURNAL   Mol. Endocrinol. 21 (8), 1745-1755 (2007)
+   PUBMED   17456799
+  REMARK    Review article
+REFERENCE   7  (bases 1 to 1519)
+  AUTHORS   Michishita E, Park JY, Burneskis JM, Barrett JC and Horikawa I.
+  TITLE     Evolutionarily conserved and nonconserved cellular localizations
+            and functions of human SIRT proteins
+  JOURNAL   Mol. Biol. Cell 16 (10), 4623-4635 (2005)
+   PUBMED   16079181
+REFERENCE   8  (bases 1 to 1519)
+  AUTHORS   Stelzl U, Worm U, Lalowski M, Haenig C, Brembeck FH, Goehler H,
+            Stroedicke M, Zenkner M, Schoenherr A, Koeppen S, Timm J, Mintzlaff
+            S, Abraham C, Bock N, Kietzmann S, Goedde A, Toksoz E, Droege A,
+            Krobitsch S, Korn B, Birchmeier W, Lehrach H and Wanker EE.
+  TITLE     A human protein-protein interaction network: a resource for
+            annotating the proteome
+  JOURNAL   Cell 122 (6), 957-968 (2005)
+   PUBMED   16169070
+REFERENCE   9  (bases 1 to 1519)
+  AUTHORS   Grimwood J, Gordon LA, Olsen A, Terry A, Schmutz J, Lamerdin J,
+            Hellsten U, Goodstein D, Couronne O, Tran-Gyamfi M, Aerts A,
+            Altherr M, Ashworth L, Bajorek E, Black S, Branscomb E, Caenepeel
+            S, Carrano A, Caoile C, Chan YM, Christensen M, Cleland CA,
+            Copeland A, Dalin E, Dehal P, Denys M, Detter JC, Escobar J,
+            Flowers D, Fotopulos D, Garcia C, Georgescu AM, Glavina T, Gomez M,
+            Gonzales E, Groza M, Hammon N, Hawkins T, Haydu L, Ho I, Huang W,
+            Israni S, Jett J, Kadner K, Kimball H, Kobayashi A, Larionov V,
+            Leem SH, Lopez F, Lou Y, Lowry S, Malfatti S, Martinez D, McCready
+            P, Medina C, Morgan J, Nelson K, Nolan M, Ovcharenko I, Pitluck S,
+            Pollard M, Popkie AP, Predki P, Quan G, Ramirez L, Rash S, Retterer
+            J, Rodriguez A, Rogers S, Salamov A, Salazar A, She X, Smith D,
+            Slezak T, Solovyev V, Thayer N, Tice H, Tsai M, Ustaszewska A, Vo
+            N, Wagner M, Wheeler J, Wu K, Xie G, Yang J, Dubchak I, Furey TS,
+            DeJong P, Dickson M, Gordon D, Eichler EE, Pennacchio LA,
+            Richardson P, Stubbs L, Rokhsar DS, Myers RM, Rubin EM and Lucas
+            SM.
+  TITLE     The DNA sequence and biology of human chromosome 19
+  JOURNAL   Nature 428 (6982), 529-535 (2004)
+   PUBMED   15057824
+REFERENCE   10 (bases 1 to 1519)
+  AUTHORS   Frye RA.
+  TITLE     Phylogenetic classification of prokaryotic and eukaryotic Sir2-like
+            proteins
+  JOURNAL   Biochem. Biophys. Res. Commun. 273 (2), 793-798 (2000)
+   PUBMED   10873683
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from CN364177.1, BC028220.1,
+            AC006930.1 and AC016586.9.
+            On May 31, 2019 this sequence version replaced NM_001193285.2.
+            
+            Summary: This gene encodes a member of the sirtuin family of
+            NAD-dependent enzymes that are implicated in cellular stress
+            resistance, genomic stability, aging and energy homeostasis. The
+            encoded protein is localized to the nucleus, exhibits ADP-ribosyl
+            transferase and histone deacetylase activities, and plays a role in
+            DNA repair, maintenance of telomeric chromatin, inflammation, lipid
+            and glucose metabolism. Alternative splicing results in multiple
+            transcript variants encoding different isoforms. [provided by
+            RefSeq, Mar 2016].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BC028220.1, SRR1163655.82889.1
+                                           [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMN01820691 [ECO:0000348]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-13                CN364177.1         44-56
+            14-160              BC028220.1         1-147
+            161-161             AC006930.1         6629-6629           c
+            162-1226            BC028220.1         149-1213
+            1227-1227           AC016586.9         199437-199437       c
+            1228-1519           BC028220.1         1215-1506
+FEATURES             Location/Qualifiers
+     source          1..1519
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="19"
+                     /map="19p13.3"
+     gene            1..1519
+                     /gene="SIRT6"
+                     /gene_synonym="SIR2L6"
+                     /note="sirtuin 6"
+                     /db_xref="GeneID:51548"
+                     /db_xref="HGNC:HGNC:14934"
+                     /db_xref="MIM:606211"
+     exon            1..90
+                     /gene="SIRT6"
+                     /gene_synonym="SIR2L6"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             25..1011
+                     /gene="SIRT6"
+                     /gene_synonym="SIR2L6"
+                     /EC_number="2.3.1.286"
+                     /note="isoform 2 is encoded by transcript variant 2;
+                     sir2-related protein type 6; sirtuin type 6; SIR2-like
+                     protein 6; regulatory protein SIR2 homolog 6;
+                     NAD-dependent protein deacetylase sirtuin-6"
+                     /codon_start=1
+                     /product="NAD-dependent protein deacetylase sirtuin-6
+                     isoform 2"
+                     /protein_id="NP_001180214.1"
+                     /db_xref="CCDS:CCDS54199.1"
+                     /db_xref="GeneID:51548"
+                     /db_xref="HGNC:HGNC:14934"
+                     /db_xref="MIM:606211"
+                     /translation="MSVNYAAGLSPYADKGKCGLPEIFDPPEELERKVWELARLVWQS
+                     SSVVFHTGAGISTASGIPDFRGPHGVWTMEERGLAPKFDTTFESARPTQTHMALVQLE
+                     RVGLLRFLVSQNVDGLHVRSGFPRDKLAELHGNMFVEECAKCKTQYVRDTVVGTMGLK
+                     ATGRLCTVAKARGLRACRNADLSITLGTSLQIRPSGNLPLATKRRGGRLVIVNLQPTK
+                     HDRHADLRIHGYVDEVMTRLMKHLGLEIPAWDGPRVLERALPPLPRPPTPKLEPKEES
+                     PTRINGSIPAGPKQEPCAQHNGSEPASPKRERPTSPAPHRPPKRVKAKAVPS"
+     exon            91..218
+                     /gene="SIRT6"
+                     /gene_synonym="SIR2L6"
+                     /inference="alignment:Splign:2.1.0"
+     exon            219..401
+                     /gene="SIRT6"
+                     /gene_synonym="SIR2L6"
+                     /inference="alignment:Splign:2.1.0"
+     exon            402..461
+                     /gene="SIRT6"
+                     /gene_synonym="SIR2L6"
+                     /inference="alignment:Splign:2.1.0"
+     exon            462..557
+                     /gene="SIRT6"
+                     /gene_synonym="SIR2L6"
+                     /inference="alignment:Splign:2.1.0"
+     exon            558..681
+                     /gene="SIRT6"
+                     /gene_synonym="SIR2L6"
+                     /inference="alignment:Splign:2.1.0"
+     exon            682..1519
+                     /gene="SIRT6"
+                     /gene_synonym="SIR2L6"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      1496..1501
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="SIRT6"
+                     /gene_synonym="SIR2L6"
+                     /note="hexamer: AATAAA"
+     polyA_site      1519
+                     /gene="SIRT6"
+                     /gene_synonym="SIR2L6"
+                     /note="major polyA site"
+ORIGIN      
+        1 attgttcccg tggggcagtc gaggatgtcg gtgaattacg cggcggggct gtcgccgtac
+       61 gcggacaagg gcaagtgcgg cctcccggag atcttcgacc ccccggagga gctggagcgg
+      121 aaggtgtggg aactggcgag gctggtctgg cagtcttcca gtgtggtgtt ccacacgggt
+      181 gccggcatca gcactgcctc tggcatcccc gacttcaggg gtccccacgg agtctggacc
+      241 atggaggagc gaggtctggc ccccaagttc gacaccacct ttgagagcgc gcggcccacg
+      301 cagacccaca tggcgctggt gcagctggag cgcgtgggcc tcctccgctt cctggtcagc
+      361 cagaacgtgg acgggctcca tgtgcgctca ggcttcccca gggacaaact ggcagagctc
+      421 cacgggaaca tgtttgtgga agaatgtgcc aagtgtaaga cgcagtacgt ccgagacaca
+      481 gtcgtgggca ccatgggcct gaaggccacg ggccggctct gcaccgtggc taaggcaagg
+      541 gggctgcgag cctgcaggaa cgccgacctg tccatcacgc tgggtacatc gctgcagatc
+      601 cggcccagcg ggaacctgcc gctggctacc aagcgccggg gaggccgcct ggtcatcgtc
+      661 aacctgcagc ccaccaagca cgaccgccat gctgacctcc gcatccatgg ctacgttgac
+      721 gaggtcatga cccggctcat gaagcacctg gggctggaga tccccgcctg ggacggcccc
+      781 cgtgtgctgg agagggcgct gccacccctg ccccgcccgc ccacccccaa gctggagccc
+      841 aaggaggaat ctcccacccg gatcaacggc tctatccccg ccggccccaa gcaggagccc
+      901 tgcgcccagc acaacggctc agagcccgcc agccccaaac gggagcggcc caccagccct
+      961 gccccccaca gaccccccaa aagggtgaag gccaaggcgg tccccagctg accagggtgc
+     1021 ttggggaggg tggggctttt tgtagaaact gtggattctt tttctctcgt ggtctcactt
+     1081 tgttacttgt ttctgtcccc gggagcctca gggctctgag agctgtgctc caggccaggg
+     1141 gttacacctg ccctccgtgg tccctccctg ggctccaggg gcctctggtg cggttccggg
+     1201 aagaagccac accccagagg tgacaggtga gcccctgcca caccccagcc tctgacttgc
+     1261 tgtgttgtcc agaggtgagg ctgggccctc cctggtctcc agcttaaaca ggagtgaact
+     1321 ccctctgtcc ccagggcctc ccttctgggc cccctacagc ccaccctacc cctcctccat
+     1381 gggccctgca ggaggggaga cccaccttga agtgggggat cagtagaggc ttgcactgcc
+     1441 tttggggctg gagggagacg tgggtccacc aggcttctgg aaaagtcctc aatgcaataa
+     1501 aaacaatttc tttcttgca
+//
+
