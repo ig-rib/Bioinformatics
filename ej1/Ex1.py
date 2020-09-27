@@ -8,7 +8,7 @@ from utils import translatemRNASequence
 import sys
 
 if len(sys.argv) != 2:
-    print("Usage: python3 Ex1.py [genBankFilePath]")
+    print("Usage: python3 Ex1.py [filename(with genbank extension)]")
 else:
     genBankFilePath = sys.argv[1]
     outputFilePathSplit = genBankFilePath.split('.')
@@ -16,7 +16,7 @@ else:
         outputFilePathSplit.pop()
     outputFilePath = ".".join(outputFilePathSplit)
 
-    with open(genBankFilePath, "rU") as input_handle:
+    with open(genBankFilePath, "r") as input_handle:
         sequences = SeqIO.parse(input_handle, "genbank")
         # for sequence in sequences:
         #     print(sequence.translate())
