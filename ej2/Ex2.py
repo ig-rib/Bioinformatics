@@ -1,5 +1,3 @@
-#!/bin/python3
-
 from Bio.Blast import NCBIWWW
 from Bio.Blast.Applications import NcbiblastpCommandline
 from Bio import SeqIO
@@ -10,7 +8,9 @@ if len(sys.argv) != 2 and len(sys.argv) != 4:
     print("Usage: python3 Ex2.py fastaFilePath [-local -dbpath=pathToLocalDb]")
 else:
     fileName = sys.argv[1]
-    local = sys.argv[2] == "-local"
+    local = False
+    if len(sys.argv) > 2:
+        local = sys.argv[2] == "-local"
     if local:
         dbpath = sys.argv[3].split("=").pop().strip()
     with open(fileName, "r") as input_handle:

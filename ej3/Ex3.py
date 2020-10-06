@@ -1,5 +1,4 @@
 #!/bin/python3
-
 from Bio.Blast import NCBIWWW
 from Bio import SeqIO
 from Bio import AlignIO
