@@ -11,7 +11,9 @@ def translatemRNASequence(seq, filename="output", translationTable=1):
 
     for frame in range(3):
         trans = seq[frame:].translate(to_stop=True)
+        reverse = seq[::-1][frame:].translate(to_stop=True)
         allPossibilities.append(trans)
+        allPossibilities.append(reverse)
 
     i = 0
     for protein in allPossibilities:
